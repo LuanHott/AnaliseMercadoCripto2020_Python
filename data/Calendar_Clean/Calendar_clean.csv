@@ -1,0 +1,399 @@
+Date,Name
+2020/01/03,ISM Manufacturing PMI                                                                                           
+2020/01/03,Crude Oil Inventories                                                                                           
+2020/01/03,FOMC Meeting Minutes                                                                                            
+2020/01/07,ISM Non-Manufacturing PMI                                                                                       
+2020/01/08,ADP Nonfarm Employment Change                                                                                   
+2020/01/08,Crude Oil Inventories                                                                                           
+2020/01/10,Nonfarm Payrolls                                                                                                
+2020/01/10,Unemployment Rate                                                                                               
+2020/01/14,Core CPI                                                                                                        
+2020/01/15,PPI                                                                                                             
+2020/01/15,Crude Oil Inventories                                                                                           
+2020/01/16,Core Retail Sales                                                                                               
+2020/01/16,Philadelphia Fed Manufacturing Index                                                                            
+2020/01/16,Retail Sales                                                                                                    
+2020/01/17,Building Permits                                                                                                
+2020/01/17,JOLTs Job Openings                                                                                              
+2020/01/21,U.S. President Trump Speaks                                                                                     
+2020/01/22,Existing Home Sales                                                                                             
+2020/01/23,Crude Oil Inventories                                                                                           
+2020/01/27,New Home Sales                                                                                                  
+2020/01/28,Core Durable Goods Orders                                                                                       
+2020/01/28,CB Consumer Confidence                                                                                          
+2020/01/29,Pending Home Sales                                                                                              
+2020/01/29,Crude Oil Inventories                                                                                           
+2020/01/29,FOMC Statement                                                                                                  
+2020/01/29,Fed Interest Rate Decision                                                                                      
+2020/01/29,FOMC Press Conference                                                                                           
+2020/01/30,GDP                                                                                                             
+2020/02/03,ISM Manufacturing PMI                                                                                           
+2020/02/05,ADP Nonfarm Employment Change                                                                                   
+2020/02/05,ISM Non-Manufacturing PMI                                                                                       
+2020/02/05,Crude Oil Inventories                                                                                           
+2020/02/06,Initial Jobless Claims                                                                                          
+2020/02/07,Nonfarm Payrolls                                                                                                
+2020/02/07,Unemployment Rate                                                                                               
+2020/02/11,EIA Short-Term Energy Outlook                                                                                   
+2020/02/11,Fed Chair Powell Testifies                                                                                      
+2020/02/11,JOLTs Job Openings                                                                                              
+2020/02/12,Fed Chair Powell Testifies                                                                                      
+2020/02/12,Crude Oil Inventories                                                                                           
+2020/02/13,Core CPI                                                                                                        
+2020/02/13,Initial Jobless Claims                                                                                          
+2020/02/14,Core Retail Sales                                                                                               
+2020/02/14,Retail Sales                                                                                                    
+2020/02/19,Building Permits                                                                                                
+2020/02/19,PPI                                                                                                             
+2020/02/19,FOMC Meeting Minutes                                                                                            
+2020/02/20,Initial Jobless Claims                                                                                          
+2020/02/20,Philadelphia Fed Manufacturing Index                                                                            
+2020/02/20,Crude Oil Inventories                                                                                           
+2020/02/21,Existing Home Sales                                                                                             
+2020/02/25,CB Consumer Confidence                                                                                          
+2020/02/26,New Home Sales                                                                                                  
+2020/02/26,Crude Oil Inventories                                                                                           
+2020/02/26,U.S. President Trump Speaks                                                                                     
+2020/02/27,Core Durable Goods Orders                                                                                       
+2020/02/27,GDP                                                                                                             
+2020/02/27,Initial Jobless Claims                                                                                          
+2020/02/27,Pending Home Sales                                                                                              
+2020/03/02,ISM Manufacturing PMI                                                                                           
+2020/03/03,Fed Interest Rate Decision                                                                                      
+2020/03/04,ADP Nonfarm Employment Change                                                                                   
+2020/03/04,ISM Non-Manufacturing PMI                                                                                       
+2020/03/04,Crude Oil Inventories                                                                                           
+2020/03/05,Initial Jobless Claims                                                                                          
+2020/03/06,Nonfarm Payrolls                                                                                                
+2020/03/06,Unemployment Rate                                                                                               
+2020/03/10,U.S. President Trump Speaks                                                                                     
+2020/03/11,EIA Short-Term Energy Outlook                                                                                   
+2020/03/11,Core CPI                                                                                                        
+2020/03/11,Crude Oil Inventories                                                                                           
+2020/03/12,Initial Jobless Claims                                                                                          
+2020/03/12,PPI                                                                                                             
+2020/03/13,U.S. President Trump Speaks                                                                                     
+2020/03/15,FOMC Statement                                                                                                  
+2020/03/15,Fed Interest Rate Decision                                                                                      
+2020/03/15,U.S. President Trump Speaks                                                                                     
+2020/03/15,FOMC Press Conference                                                                                           
+2020/03/17,Core Retail Sales                                                                                               
+2020/03/17,Retail Sales                                                                                                    
+2020/03/17,JOLTs Job Openings                                                                                              
+2020/03/18,Building Permits                                                                                                
+2020/03/18,Crude Oil Inventories                                                                                           
+2020/03/19,Initial Jobless Claims                                                                                          
+2020/03/19,Philadelphia Fed Manufacturing Index                                                                            
+2020/03/20,Existing Home Sales                                                                                             
+2020/03/24,New Home Sales                                                                                                  
+2020/03/24,U.S. President Trump Speaks                                                                                     
+2020/03/25,Core Durable Goods Orders                                                                                       
+2020/03/25,Crude Oil Inventories                                                                                           
+2020/03/26,Fed Chair Powell Speaks                                                                                         
+2020/03/26,GDP                                                                                                             
+2020/03/26,Initial Jobless Claims                                                                                          
+2020/03/30,Pending Home Sales                                                                                              
+2020/03/31,CB Consumer Confidence                                                                                          
+2020/04/01,ADP Nonfarm Employment Change                                                                                   
+2020/04/01,ISM Manufacturing PMI                                                                                           
+2020/04/01,Crude Oil Inventories                                                                                           
+2020/04/02,Initial Jobless Claims                                                                                          
+2020/04/03,Nonfarm Payrolls                                                                                                
+2020/04/03,Unemployment Rate                                                                                               
+2020/04/03,ISM Non-Manufacturing PMI                                                                                       
+2020/04/07,EIA Short-Term Energy Outlook                                                                                   
+2020/04/07,JOLTs Job Openings                                                                                              
+2020/04/08,Crude Oil Inventories                                                                                           
+2020/04/08,FOMC Meeting Minutes                                                                                            
+2020/04/09,Initial Jobless Claims                                                                                          
+2020/04/09,PPI                                                                                                             
+2020/04/09,Fed Chair Powell Speaks                                                                                         
+2020/04/10,Core CPI                                                                                                        
+2020/04/15,Core Retail Sales                                                                                               
+2020/04/15,Retail Sales                                                                                                    
+2020/04/15,Crude Oil Inventories                                                                                           
+2020/04/16,Building Permits                                                                                                
+2020/04/16,Initial Jobless Claims                                                                                          
+2020/04/16,Philadelphia Fed Manufacturing Index                                                                            
+2020/04/21,Existing Home Sales                                                                                             
+2020/04/22,Crude Oil Inventories                                                                                           
+2020/04/23,Initial Jobless Claims                                                                                          
+2020/04/23,New Home Sales                                                                                                  
+2020/04/24,Core Durable Goods Orders                                                                                       
+2020/04/28,CB Consumer Confidence                                                                                          
+2020/04/29,GDP                                                                                                             
+2020/04/29,Pending Home Sales                                                                                              
+2020/04/29,Crude Oil Inventories                                                                                           
+2020/04/29,FOMC Statement                                                                                                  
+2020/04/29,Fed Interest Rate Decision                                                                                      
+2020/04/29,FOMC Press Conference                                                                                           
+2020/04/30,Initial Jobless Claims                                                                                          
+2020/05/01,ISM Manufacturing PMI                                                                                           
+2020/05/05,ISM Non-Manufacturing PMI                                                                                       
+2020/05/06,ADP Nonfarm Employment Change                                                                                   
+2020/05/06,Crude Oil Inventories                                                                                           
+2020/05/07,Initial Jobless Claims                                                                                          
+2020/05/08,Nonfarm Payrolls                                                                                                
+2020/05/08,Unemployment Rate                                                                                               
+2020/05/12,EIA Short-Term Energy Outlook                                                                                   
+2020/05/12,Core CPI                                                                                                        
+2020/05/13,PPI                                                                                                             
+2020/05/13,Fed Chair Powell Speaks                                                                                         
+2020/05/13,Crude Oil Inventories                                                                                           
+2020/05/14,Initial Jobless Claims                                                                                          
+2020/05/15,Core Retail Sales                                                                                               
+2020/05/15,Retail Sales                                                                                                    
+2020/05/15,JOLTs Job Openings                                                                                              
+2020/05/17,Fed Chair Powell Speaks                                                                                         
+2020/05/19,Building Permits                                                                                                
+2020/05/19,Fed Chair Powell Testifies                                                                                      
+2020/05/20,Crude Oil Inventories                                                                                           
+2020/05/20,FOMC Meeting Minutes                                                                                            
+2020/05/21,Initial Jobless Claims                                                                                          
+2020/05/21,Philadelphia Fed Manufacturing Index                                                                            
+2020/05/21,Existing Home Sales                                                                                             
+2020/05/21,Fed Chair Powell Speaks                                                                                         
+2020/05/26,CB Consumer Confidence                                                                                          
+2020/05/26,New Home Sales                                                                                                  
+2020/05/28,Core Durable Goods Orders                                                                                       
+2020/05/28,GDP                                                                                                             
+2020/05/28,Initial Jobless Claims                                                                                          
+2020/05/28,Pending Home Sales                                                                                              
+2020/05/28,Crude Oil Inventories                                                                                           
+2020/05/29,Fed Chair Powell Speaks                                                                                         
+2020/05/29,U.S. President Trump Speaks                                                                                     
+2020/06/01,ISM Manufacturing PMI                                                                                           
+2020/06/03,ADP Nonfarm Employment Change                                                                                   
+2020/06/03,ISM Non-Manufacturing PMI                                                                                       
+2020/06/03,Crude Oil Inventories                                                                                           
+2020/06/04,Initial Jobless Claims                                                                                          
+2020/06/05,Nonfarm Payrolls                                                                                                
+2020/06/05,Unemployment Rate                                                                                               
+2020/06/05,U.S. President Trump Speaks                                                                                     
+2020/06/09,EIA Short-Term Energy Outlook                                                                                   
+2020/06/09,JOLTs Job Openings                                                                                              
+2020/06/10,Core CPI                                                                                                        
+2020/06/10,Crude Oil Inventories                                                                                           
+2020/06/10,FOMC Economic Projections                                                                                       
+2020/06/10,FOMC Statement                                                                                                  
+2020/06/10,Fed Interest Rate Decision                                                                                      
+2020/06/10,FOMC Press Conference                                                                                           
+2020/06/11,Initial Jobless Claims                                                                                          
+2020/06/11,PPI                                                                                                             
+2020/06/16,Core Retail Sales                                                                                               
+2020/06/16,Retail Sales                                                                                                    
+2020/06/16,Fed Chair Powell Testifies                                                                                      
+2020/06/17,Building Permits                                                                                                
+2020/06/17,Crude Oil Inventories                                                                                           
+2020/06/17,Fed Chair Powell Testifies                                                                                      
+2020/06/18,Initial Jobless Claims                                                                                          
+2020/06/18,Philadelphia Fed Manufacturing Index                                                                            
+2020/06/19,Fed Chair Powell Speaks                                                                                         
+2020/06/22,Existing Home Sales                                                                                             
+2020/06/23,New Home Sales                                                                                                  
+2020/06/24,Crude Oil Inventories                                                                                           
+2020/06/25,Core Durable Goods Orders                                                                                       
+2020/06/25,GDP                                                                                                             
+2020/06/25,Initial Jobless Claims                                                                                          
+2020/06/29,Pending Home Sales                                                                                              
+2020/06/30,CB Consumer Confidence                                                                                          
+2020/06/30,Fed Chair Powell Testifies                                                                                      
+2020/07/01,ADP Nonfarm Employment Change                                                                                   
+2020/07/01,ISM Manufacturing PMI                                                                                           
+2020/07/01,Crude Oil Inventories                                                                                           
+2020/07/01,FOMC Meeting Minutes                                                                                            
+2020/07/02,Initial Jobless Claims                                                                                          
+2020/07/02,Nonfarm Payrolls                                                                                                
+2020/07/02,Unemployment Rate                                                                                               
+2020/07/02,U.S. President Trump Speaks                                                                                     
+2020/07/06,ISM Non-Manufacturing PMI                                                                                       
+2020/07/07,EIA Short-Term Energy Outlook                                                                                   
+2020/07/07,JOLTs Job Openings                                                                                              
+2020/07/08,Crude Oil Inventories                                                                                           
+2020/07/09,Initial Jobless Claims                                                                                          
+2020/07/10,PPI                                                                                                             
+2020/07/14,Core CPI                                                                                                        
+2020/07/15,Crude Oil Inventories                                                                                           
+2020/07/16,Core Retail Sales                                                                                               
+2020/07/16,Initial Jobless Claims                                                                                          
+2020/07/16,Philadelphia Fed Manufacturing Index                                                                            
+2020/07/16,Retail Sales                                                                                                    
+2020/07/17,Building Permits                                                                                                
+2020/07/22,Existing Home Sales                                                                                             
+2020/07/22,Crude Oil Inventories                                                                                           
+2020/07/23,Initial Jobless Claims                                                                                          
+2020/07/24,New Home Sales                                                                                                  
+2020/07/27,Core Durable Goods Orders                                                                                       
+2020/07/28,CB Consumer Confidence                                                                                          
+2020/07/29,Pending Home Sales                                                                                              
+2020/07/29,Crude Oil Inventories                                                                                           
+2020/07/29,FOMC Statement                                                                                                  
+2020/07/29,Fed Interest Rate Decision                                                                                      
+2020/07/29,FOMC Press Conference                                                                                           
+2020/07/30,GDP                                                                                                             
+2020/07/30,Initial Jobless Claims                                                                                          
+2020/08/03,ISM Manufacturing PMI                                                                                           
+2020/08/05,ADP Nonfarm Employment Change                                                                                   
+2020/08/05,ISM Non-Manufacturing PMI                                                                                       
+2020/08/05,Crude Oil Inventories                                                                                           
+2020/08/06,Initial Jobless Claims                                                                                          
+2020/08/07,Nonfarm Payrolls                                                                                                
+2020/08/07,Unemployment Rate                                                                                               
+2020/08/10,JOLTs Job Openings                                                                                              
+2020/08/11,EIA Short-Term Energy Outlook                                                                                   
+2020/08/11,PPI                                                                                                             
+2020/08/12,Core CPI                                                                                                        
+2020/08/12,Crude Oil Inventories                                                                                           
+2020/08/13,Initial Jobless Claims                                                                                          
+2020/08/14,Core Retail Sales                                                                                               
+2020/08/14,Retail Sales                                                                                                    
+2020/08/18,Building Permits                                                                                                
+2020/08/19,Crude Oil Inventories                                                                                           
+2020/08/19,FOMC Meeting Minutes                                                                                            
+2020/08/20,Initial Jobless Claims                                                                                          
+2020/08/20,Philadelphia Fed Manufacturing Index                                                                            
+2020/08/21,Existing Home Sales                                                                                             
+2020/08/25,CB Consumer Confidence                                                                                          
+2020/08/25,New Home Sales                                                                                                  
+2020/08/26,Core Durable Goods Orders                                                                                       
+2020/08/26,Crude Oil Inventories                                                                                           
+2020/08/27,GDP                                                                                                             
+2020/08/27,Initial Jobless Claims                                                                                          
+2020/08/27,Fed Chair Powell Speaks                                                                                         
+2020/08/27,Pending Home Sales                                                                                              
+2020/09/01,ISM Manufacturing PMI                                                                                           
+2020/09/02,ADP Nonfarm Employment Change                                                                                   
+2020/09/02,Crude Oil Inventories                                                                                           
+2020/09/03,Initial Jobless Claims                                                                                          
+2020/09/03,ISM Non-Manufacturing PMI                                                                                       
+2020/09/04,Nonfarm Payrolls                                                                                                
+2020/09/04,Unemployment Rate                                                                                               
+2020/09/09,EIA Short-Term Energy Outlook                                                                                   
+2020/09/09,JOLTs Job Openings                                                                                              
+2020/09/10,Initial Jobless Claims                                                                                          
+2020/09/10,PPI                                                                                                             
+2020/09/10,Crude Oil Inventories                                                                                           
+2020/09/11,Core CPI                                                                                                        
+2020/09/16,Core Retail Sales                                                                                               
+2020/09/16,Retail Sales                                                                                                    
+2020/09/16,Crude Oil Inventories                                                                                           
+2020/09/16,FOMC Economic Projections                                                                                       
+2020/09/16,FOMC Statement                                                                                                  
+2020/09/16,Fed Interest Rate Decision                                                                                      
+2020/09/16,FOMC Press Conference                                                                                           
+2020/09/17,Building Permits                                                                                                
+2020/09/17,Initial Jobless Claims                                                                                          
+2020/09/17,Philadelphia Fed Manufacturing Index                                                                            
+2020/09/21,Fed Chair Powell Speaks                                                                                         
+2020/09/22,Existing Home Sales                                                                                             
+2020/09/22,Fed Chair Powell Testifies                                                                                      
+2020/09/23,Fed Chair Powell Testifies                                                                                      
+2020/09/23,Crude Oil Inventories                                                                                           
+2020/09/24,Initial Jobless Claims                                                                                          
+2020/09/24,Fed Chair Powell Testifies                                                                                      
+2020/09/24,New Home Sales                                                                                                  
+2020/09/25,Core Durable Goods Orders                                                                                       
+2020/09/29,CB Consumer Confidence                                                                                          
+2020/09/30,ADP Nonfarm Employment Change                                                                                   
+2020/09/30,GDP                                                                                                             
+2020/09/30,Pending Home Sales                                                                                              
+2020/09/30,Crude Oil Inventories                                                                                           
+2020/10/01,Initial Jobless Claims                                                                                          
+2020/10/01,ISM Manufacturing PMI                                                                                           
+2020/10/02,Nonfarm Payrolls                                                                                                
+2020/10/02,Unemployment Rate                                                                                               
+2020/10/05,ISM Non-Manufacturing PMI                                                                                       
+2020/10/06,EIA Short-Term Energy Outlook                                                                                   
+2020/10/06,JOLTs Job Openings                                                                                              
+2020/10/06,Fed Chair Powell Speaks                                                                                         
+2020/10/07,Crude Oil Inventories                                                                                           
+2020/10/07,FOMC Meeting Minutes                                                                                            
+2020/10/07,FOMC Statement                                                                                                  
+2020/10/08,Initial Jobless Claims                                                                                          
+2020/10/13,Core CPI                                                                                                        
+2020/10/14,PPI                                                                                                             
+2020/10/15,Initial Jobless Claims                                                                                          
+2020/10/15,Philadelphia Fed Manufacturing Index                                                                            
+2020/10/15,Crude Oil Inventories                                                                                           
+2020/10/15,Sec Kashkari Speaks                                                                                             
+2020/10/16,Core Retail Sales                                                                                               
+2020/10/16,Retail Sales                                                                                                    
+2020/10/19,Fed Chair Powell Speaks                                                                                         
+2020/10/20,Building Permits                                                                                                
+2020/10/21,Crude Oil Inventories                                                                                           
+2020/10/22,Initial Jobless Claims                                                                                          
+2020/10/22,Existing Home Sales                                                                                             
+2020/10/26,New Home Sales                                                                                                  
+2020/10/27,Core Durable Goods Orders                                                                                       
+2020/10/27,CB Consumer Confidence                                                                                          
+2020/10/28,Crude Oil Inventories                                                                                           
+2020/10/29,GDP                                                                                                             
+2020/10/29,Initial Jobless Claims                                                                                          
+2020/10/29,Pending Home Sales                                                                                              
+2020/11/02,ISM Manufacturing PMI                                                                                           
+2020/11/03,U.S. Presidential Election                                                                                      
+2020/11/04,ADP Nonfarm Employment Change                                                                                   
+2020/11/04,ISM Non-Manufacturing PMI                                                                                       
+2020/11/04,Crude Oil Inventories                                                                                           
+2020/11/05,Initial Jobless Claims                                                                                          
+2020/11/05,FOMC Statement                                                                                                  
+2020/11/05,Fed Interest Rate Decision                                                                                      
+2020/11/05,FOMC Press Conference                                                                                           
+2020/11/06,Nonfarm Payrolls                                                                                                
+2020/11/06,Unemployment Rate                                                                                               
+2020/11/10,EIA Short-Term Energy Outlook                                                                                   
+2020/11/10,JOLTs Job Openings                                                                                              
+2020/11/12,Core CPI                                                                                                        
+2020/11/12,Initial Jobless Claims                                                                                          
+2020/11/12,Crude Oil Inventories                                                                                           
+2020/11/13,PPI                                                                                                             
+2020/11/17,Core Retail Sales                                                                                               
+2020/11/17,Retail Sales                                                                                                    
+2020/11/18,Building Permits                                                                                                
+2020/11/18,Crude Oil Inventories                                                                                           
+2020/11/19,Initial Jobless Claims                                                                                          
+2020/11/19,Philadelphia Fed Manufacturing Index                                                                            
+2020/11/19,Existing Home Sales                                                                                             
+2020/11/24,CB Consumer Confidence                                                                                          
+2020/11/25,Core Durable Goods Orders                                                                                       
+2020/11/25,GDP                                                                                                             
+2020/11/25,Initial Jobless Claims                                                                                          
+2020/11/25,New Home Sales                                                                                                  
+2020/11/25,Crude Oil Inventories                                                                                           
+2020/11/25,FOMC Meeting Minutes                                                                                            
+2020/11/30,Pending Home Sales                                                                                              
+2020/12/01,Fed Chair Powell Testifies                                                                                      
+2020/12/01,ISM Manufacturing PMI                                                                                           
+2020/12/02,ADP Nonfarm Employment Change                                                                                   
+2020/12/02,Fed Chair Powell Testifies                                                                                      
+2020/12/02,Crude Oil Inventories                                                                                           
+2020/12/03,Initial Jobless Claims                                                                                          
+2020/12/03,ISM Non-Manufacturing PMI                                                                                       
+2020/12/04,Nonfarm Payrolls                                                                                                
+2020/12/04,Unemployment Rate                                                                                               
+2020/12/08,EIA Short-Term Energy Outlook                                                                                   
+2020/12/09,JOLTs Job Openings                                                                                              
+2020/12/09,Crude Oil Inventories                                                                                           
+2020/12/10,Core CPI                                                                                                        
+2020/12/10,Initial Jobless Claims                                                                                          
+2020/12/11,PPI                                                                                                             
+2020/12/16,Core Retail Sales                                                                                               
+2020/12/16,Retail Sales                                                                                                    
+2020/12/16,Crude Oil Inventories                                                                                           
+2020/12/16,FOMC Economic Projections                                                                                       
+2020/12/16,FOMC Statement                                                                                                  
+2020/12/16,Fed Interest Rate Decision                                                                                      
+2020/12/16,FOMC Press Conference                                                                                           
+2020/12/17,Building Permits                                                                                                
+2020/12/17,Initial Jobless Claims                                                                                          
+2020/12/17,Philadelphia Fed Manufacturing Index                                                                            
+2020/12/22,GDP                                                                                                             
+2020/12/22,CB Consumer Confidence                                                                                          
+2020/12/22,Existing Home Sales                                                                                             
+2020/12/23,Core Durable Goods Orders                                                                                       
+2020/12/23,Initial Jobless Claims                                                                                          
+2020/12/23,New Home Sales                                                                                                  
+2020/12/23,Crude Oil Inventories                                                                                           
+2020/12/30,Pending Home Sales                                                                                              
+2020/12/30,Crude Oil Inventories                                                                                           
+2020/12/31,Initial Jobless Claims                                                                                          
