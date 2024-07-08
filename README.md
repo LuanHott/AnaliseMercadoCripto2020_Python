@@ -1,0 +1,1 @@
+# AnaliseMercadoCripto2020_Python
