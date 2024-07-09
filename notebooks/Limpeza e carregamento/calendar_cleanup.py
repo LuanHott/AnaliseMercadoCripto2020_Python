@@ -2,7 +2,7 @@
 import pandas as pd
 
 columns = ['Date','Time','Country','Volatility','Name']
-pd_calendar = pd.read_csv("../data/Calendar_Raw/d2019-21.csv", delimiter=';',usecols=range(len(columns)), names=columns)
+pd_calendar = pd.read_csv("../../data/Calendar_Raw/d2019-21.csv", delimiter=';',usecols=range(len(columns)), names=columns)
 pd_calendar.head()
 # %%
 df_calendar = pd_calendar[pd_calendar['Volatility'].str.strip() == 'High Volatility Expected']

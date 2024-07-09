@@ -3,7 +3,7 @@
 import pandas as pd
 import os
 
-input_folder = "../data/Coin_Raw/"
+input_folder = "../../data/Coin_Raw/"
 start_date = '2020-01-01'
 end_date = '2020-12-31'
 
@@ -35,5 +35,5 @@ coins_final['Date'] = pd.to_datetime(coins_final['Date'].astype(str), errors='co
 # %%
 coins_final
 # %%
-coins_final.to_csv("../data/Coin_Clean/Coin_Clean.csv", index=False)
+coins_final.to_csv("../../data/Coin_Clean/Coin_Clean.csv", index=False)
 # %%
