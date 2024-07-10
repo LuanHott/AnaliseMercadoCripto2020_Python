@@ -58,5 +58,5 @@ def varianciacombitcoin(row):
 
 dfCovariancia['CovarianceComBTC'] = dfCovariancia.apply(lambda row: varianciacombitcoin(row), axis=1)
 # %%
-dfCovariancia.to_csv('../../Data/Tabelas/Covarianciabtc.csv')
+dfCovariancia.to_csv('../../Data/Tabelas/Covarianciabtc.csv', index=False)
 # %%
