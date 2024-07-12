@@ -17,10 +17,10 @@ O notebook que realiza a análise exploratória pode ser encontrado [aqui](https
 E o notebook que contém as visualizações é encontrado [aqui](https://github.com/LuanHott/AnaliseMercadoCripto2020_Python/blob/main/notebooks/Visualiza%C3%A7%C3%A3o%20dos%20resultados/Visualiza%C3%A7%C3%A3o.py)
 
 <p align="center">
-  <img src="https://github.com/LuanHott/AnaliseMercadoCripto2020_Python/blob/main/notebooks/Visualiza%C3%A7%C3%A3o%20dos%20resultados/imagem1.png" alt="Gráfico1" width="600"/>
+  <img src="https://github.com/LuanHott/AnaliseMercadoCripto2020_Python/blob/main/notebooks/Visualiza%C3%A7%C3%A3o%20dos%20resultados/capitalização.png" alt="Gráfico1" width="600"/>
 </p>
 <p align="center">
-  <img src="https://github.com/LuanHott/AnaliseMercadoCripto2020_Python/blob/main/notebooks/Visualiza%C3%A7%C3%A3o%20dos%20resultados/imagem2.png" alt="Gráfico2" width="600"/>
+  <img src="https://github.com/LuanHott/AnaliseMercadoCripto2020_Python/blob/main/notebooks/Visualiza%C3%A7%C3%A3o%20dos%20resultados/movimento.png" alt="Gráfico2" width="600"/>
 </p>
 
 ### Fonte de dados
